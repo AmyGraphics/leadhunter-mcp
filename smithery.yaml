@@ -1,3 +1,17 @@
+name: leadhunter-mcp
+displayName: LeadHunter - B2B Lead & Email Discovery MCP
+description: B2B Lead Generation, Company Email Finder, and LinkedIn Contact Intelligence MCP Server for Claude, Cursor, and AI Agents.
+category: lead-generation
+homepage: https://github.com/AmyGraphics/leadhunter-mcp
+repository: https://github.com/AmyGraphics/leadhunter-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/leadhunter-mcp/main/icon.png
+keywords:
+  - b2b
+  - lead-generation
+  - email-finder
+  - contacts
+  - mcp
+  - claude
 startCommand:
   type: http
   url: https://leadhunter-api.agentweb-hub.workers.dev/mcp
