@@ -1,0 +1,9 @@
+{
+  "name": "leadhunter-mcp",
+  "version": "1.0.0",
+  "description": "B2B Lead Generation, Company Email Finder, and LinkedIn Contact Intelligence MCP Server for Claude, Cursor, and AI Agents",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
